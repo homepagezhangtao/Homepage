@@ -53,7 +53,7 @@
     </p>
     
 	
-<h3>Selected publications</h3>
+<h3>代表作</h3>
 
 
 <div class="items">      
