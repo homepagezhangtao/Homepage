@@ -19,7 +19,8 @@
       极值图论，离散几何，编码理论与组合设计<br>
       A member of <a href="http://staff.ustc.edu.cn/~drzhangx/group-chn/default.html" target="_blank">Combinatorics and Information Theory</a>
     </p>
-<h3>Short CV</h3>
+	
+<h3>个人简历</h3>
     <p>
     广州大学, 2016年7月至今 <br>
 	    副教授
@@ -32,8 +33,27 @@
       苏州大学， 2004年9月-2008年6月<br>
      数学与应用数学 学士
     </p>
+    
+    
+   <h3>荣誉与奖励</h3>
+    <p>
+   2019年新世界数学奖博士学位论文优胜奖
+    </p>
+	 <p>
+    2017年度浙江省优秀博士论文奖
+    </p>
+    <p>
+      2017年度浙江大学优秀博士学位论文提名奖
+    </p>
+     <p>
+      2015年信息安全国家重点实验室博士研究生奖学金
+    </p>
+     <p>
+     2015年博士研究生国家奖学金
+    </p>
+    
 	
-<h3>Selected publicationss</h3>
+<h3>Selected publications</h3>
 
 
 <div class="items">      
@@ -266,29 +286,14 @@ Some New Classes of Quantum MDS Codes From Constacyclic Codes
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-   
-
-<h3>Talk</h3>
-
- <p><a href="https://www.hubu.edu.cn/info/1316/30867.htm" target="_blank">6-th International Conference of Coding, Cryptography and Combinatorics.</a></p>
- <p><a href="http://dimacs.fzu.edu.cn/ReadNews.asp?NewsID=1429" target="_blank">2019 Conference on Combinatorial Mathematics and Graph Theory</a></p>
+<h3>会议报告</h3>
+<h4>Lattice tiling by two different shapes.</h4>
+ <p>The Sixth International Symposium on Coding Theory, Cryptography and Combinatorics, Hubei, May, 2019. (Plenary talk)</p>
+ 
+ <h4>On the nonexistence of linear perfect Lee code</h4>
+ <p>The fifth Sino-Korea International Conference on Coding theory and Its related Topics, Shanghai, July, 2018. (Invited talk) </p>
+ 
+ 
 <h3>Contact</h3>
     <p>
       <strong>Email:</strong> 50511211@qq.com<br>
