@@ -16,7 +16,7 @@
     </p>
    <h3> 研究兴趣</h3>
     <p>
-      极值图论，离散几何，编码理论与组合设计<br>
+     <h4> 极值图论，离散几何，编码理论与组合设计</h4><br>
       A member of <a href="http://staff.ustc.edu.cn/~drzhangx/group-chn/default.html" target="_blank">Combinatorics and Information Theory</a>
     </p>
 	
@@ -37,19 +37,19 @@
     
    <h3>荣誉与奖励</h3>
     <p>
-   2019年新世界数学奖博士学位论文优胜奖
+   <h4>2019年新世界数学奖博士学位论文优胜奖</h4>
     </p>
 	 <p>
-    2017年度浙江省优秀博士论文奖
+    <h4>2017年度浙江省优秀博士论文奖</h4>
     </p>
     <p>
-      2017年度浙江大学优秀博士学位论文提名奖
+      <h4>2017年度浙江大学优秀博士学位论文提名奖</h4>
     </p>
      <p>
-      2015年信息安全国家重点实验室博士研究生奖学金
+      <h4>2015年信息安全国家重点实验室博士研究生奖学金</h4>
     </p>
      <p>
-     2015年博士研究生国家奖学金
+     <h4>2015年博士研究生国家奖学金</h4>
     </p>
     
 	
@@ -58,7 +58,7 @@
 
 <div class="items">      
         <article class="item">   
-Some New Results on Splitter Sets
+<h4>Some New Results on Splitter Sets</h4>
     <span>
       (with  
 	    Zuo ye,
@@ -86,7 +86,7 @@ Some New Results on Splitter Sets
 
 <div class="items">      
         <article class="item">   
- On the nonexistence of lattice tilings of Z^n by Lee spheres 
+ <h4>On the nonexistence of lattice tilings of Z^n by Lee spheres</h4> 
     <span>
       (with  					 
        Yue Zhou</a>,    
@@ -111,7 +111,7 @@ Some New Results on Splitter Sets
 
 <div class="items">      
         <article class="item">   
- On the Nonexistence of Perfect Splitter Sets 
+ <h4>On the Nonexistence of Perfect Splitter Sets</h4> 
     <span>
       (with  					 
         <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
@@ -134,7 +134,7 @@ Some New Results on Splitter Sets
 
 <div class="items">      
         <article class="item">   
- Splitter Sets and k -Radius Sequences 
+ <h4>Splitter Sets and k -Radius Sequences</h4> 
     <span>
       (with  
 	<a href="http://staff.ustc.edu.cn/~drzhangx/" target="_blank">Xiande Zhang</a>    
@@ -160,7 +160,7 @@ Some New Results on Splitter Sets
 
 <div class="items">      
         <article class="item">   
-  Perfect and Quasi-Perfect Codes Under the lp Metric  
+  <h4>Perfect and Quasi-Perfect Codes Under the lp Metric </h4>  
     <span>
       (with  					 
         <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
@@ -185,7 +185,7 @@ Some New Results on Splitter Sets
 
 <div class="items">      
         <article class="item">   
- Quantum Codes Derived From Certain Classes of Polynomials  
+ <h4>Quantum Codes Derived From Certain Classes of Polynomials </h4> 
     <span>
       (with  					 
         <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
@@ -206,7 +206,7 @@ Some New Results on Splitter Sets
 
 <div class="items">      
         <article class="item">   
-New Results on Codes Correcting Single Error of Limited Magnitude for Flash Memory  
+<h4>New Results on Codes Correcting Single Error of Limited Magnitude for Flash Memory </h4>  
     <span>
       (with  					 
         <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
@@ -226,7 +226,7 @@ New Results on Codes Correcting Single Error of Limited Magnitude for Flash Memo
 
 <div class="items">      
         <article class="item">   
-Some New Classes of Quantum MDS Codes From Constacyclic Codes  
+<h4>Some New Classes of Quantum MDS Codes From Constacyclic Codes</h4>  
     <span>
       (with  					 
         <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
@@ -245,7 +245,7 @@ Some New Classes of Quantum MDS Codes From Constacyclic Codes
 
 <div class="items">      
         <article class="item">   
- Fourth Power Residue Double Circulant Self-Dual Codes 
+ <h4>Fourth Power Residue Double Circulant Self-Dual Codes </h4>
     <span>
       (with  					 
         <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
@@ -266,7 +266,7 @@ Some New Classes of Quantum MDS Codes From Constacyclic Codes
 
  <div class="items">      
         <article class="item">   
-  Some new results on the cross correlation of m sequences
+ <h4> Some new results on the cross correlation of m sequences</h4>
     <span>
       (with  
         <a href="https://www.researchgate.net/profile/Shuxing_Li4" target="_blank">Shuxing Li</a>,
