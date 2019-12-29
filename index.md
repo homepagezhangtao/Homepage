@@ -33,7 +33,7 @@
      数学与应用数学 学士
     </p>
 	
-<h3>Writing</h3>
+<h3>Selected publicationss</h3>
  <div class="items">      
         <article class="item">   
   Erdos-Falconer distance problem under Hamming metric in vector spaces over finite fields
@@ -51,6 +51,43 @@
     
   </p>
 </article>
+
+
+
+ <div class="items">      
+        <article class="item">   
+  2014-05 some new results on the cross correlation of m sequences
+    <span>
+      (with         
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+  <div class="item__primary-actions">
+    <span><a href="2014-05 some new results on the cross correlation of m sequences (IT).pdf" target="_blank">PDF</a></span>  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+    
+  </p>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
    <div class="items">      
