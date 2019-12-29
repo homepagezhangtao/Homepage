@@ -38,18 +38,18 @@
 
 <div class="items">      
         <article class="item">   
-  2014-05 2015-08 Fourth Power Residue Double Circulant Self-Dual Codes 
+ Fourth Power Residue Double Circulant Self-Dual Codes 
     <span>
       (with  					 
         <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
     </span>
   <p>
   <div class="item__primary-actions">
-    <span><a href="2015-08 Fourth Power Residue Double Circulant Self-Dual Codes (IT).pdf" target="_blank">PDF</a></span>  
+    Published in:  IEEE Transcations on Information theory <span><a href="2015-08 Fourth Power Residue Double Circulant Self-Dual Codes (IT).pdf" target="_blank">PDF</a></span>  
 </div>
   </p>
   <p class="item__secondary-actions">
-    Published in:  IEEE Transcations on Information theory</span> 
+   
   </p>
 </article>
 
@@ -59,7 +59,7 @@
 
  <div class="items">      
         <article class="item">   
-  2014-05 some new results on the cross correlation of m sequences
+  some new results on the cross correlation of m sequences
     <span>
       (with  
         <a href="https://www.researchgate.net/profile/Shuxing_Li4" target=_blank">Shuxing Li</a>,
@@ -68,12 +68,12 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    <span><a href="2014-05 some new results on the cross correlation of m sequences (IT).pdf" target="_blank">PDF</a></span>  
+  Published in:  IEEE Transcations on Information theory   <span><a href="2014-05 some new results on the cross correlation of m sequences (IT).pdf" target="_blank">PDF</a></span>  
 </div>
   </p>
   <p class="item__secondary-actions">
    
-Published in:  IEEE Transcations on Information theory</span>  
+
   </p>
 </article>
 
