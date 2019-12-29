@@ -3,30 +3,34 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
-## Tao Zhang
+## Tao Zhang (张韬) 副教授
 	
 		
   <div class="about">
       <figure class="profile">
-      <img src="XzxMarriage.png">
+      <img src="zhangtao.jpg">
     </figure>
-    <p class="description">
-      School of Mathematics Science<br>
-      Capital Normal University
+    <p class="description">   
+     数学与信息科学学院 <br>
+     广州大学
     </p>
-   <h3> Research interests</h3>
+   <h3> 研究兴趣</h3>
     <p>
-      Extremal graph theory, Coding Theory<br>
+      极值图论，离散几何，编码理论与组合设计<br>
       A member of <a href="http://staff.ustc.edu.cn/~drzhangx/group-chn/default.html" target="_blank">Combinatorics and Information Theory</a>
     </p>
 <h3>Short CV</h3>
     <p>
-     Capital Normal University, September 2016 – <br>
-      Ph.D., School of Mathematical Sciences (Advisor: <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>)
+    广州大学, 2016年7月至今 <br>
+	    副教授
+    </p>
+	 <p>
+    浙江大学， 2012年9月-2017年6月 <br>
+	    应用数学 博士 (导师: <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">葛根年教授</a>)
     </p>
     <p>
-      Zhejiang University, September 2012 – June 2016<br>
-      B.Sc., School of Mathematical Sciences
+      苏州大学， 2004年9月-2008年6月<br>
+     数学与应用数学 学士
     </p>
 	
 <h3>Writing</h3>
