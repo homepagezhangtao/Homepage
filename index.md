@@ -249,8 +249,8 @@ Some New Classes of Quantum MDS Codes From Constacyclic Codes
   Some new results on the cross correlation of m sequences
     <span>
       (with  
-        <a href="https://www.researchgate.net/profile/Shuxing_Li4" target=_blank">Shuxing Li</a>,
-	<a href="https://person.zju.edu.cn/tfeng" target=_blank">Tao Feng</a>,					 
+        <a href="https://www.researchgate.net/profile/Shuxing_Li4" target="_blank">Shuxing Li</a>,
+        <a href="https://person.zju.edu.cn/tfeng" target="_blank">Tao Feng</a>,
         <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
     </span>
   <p>
