@@ -294,7 +294,7 @@ Some New Classes of Quantum MDS Codes From Constacyclic Codes
  <p>The fifth Sino-Korea International Conference on Coding theory and Its related Topics, Shanghai, July, 2018. (Invited talk) </p>
  
  
-<h3>Contact</h3>
+<h3>联系方式</h3>
     <p>
-      <strong>Email:</strong> 50511211@qq.com<br>
+      <strong>Email:</strong> zhant220@163.com<br>
       
