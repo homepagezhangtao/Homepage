@@ -38,6 +38,193 @@
 
 <div class="items">      
         <article class="item">   
+Some New Results on Splitter Sets
+    <span>
+      (with  
+	    Zuo ye,
+	    <a href="http://staff.ustc.edu.cn/~drzhangx/" target="_blank">Xiande Zhang</a>
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+  <div class="item__primary-actions">
+    Published in:  IEEE Transcations on Information theory <span><a href="2020+   Some New Results on Splitter Sets (Online).pdf" target="_blank">PDF</a></span>  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+   
+  </p>
+</article>
+
+
+
+
+
+
+
+
+
+
+<div class="items">      
+        <article class="item">   
+ On the nonexistence of lattice tilings of Z^n by Lee spheres 
+    <span>
+      (with  					 
+       Yue Zhou</a>,    
+    </span>
+  <p>
+  <div class="item__primary-actions">
+    Published in:  Journal of combinatorial theory, series A <span><a href="2019-07 On the nonexistence of lattice tilings of Z^n by Lee spheres (JCTA).pdf" target="_blank">PDF</a></span>  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+   
+  </p>
+</article>
+
+
+
+
+
+
+
+
+
+<div class="items">      
+        <article class="item">   
+ On the Nonexistence of Perfect Splitter Sets 
+    <span>
+      (with  					 
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+  <div class="item__primary-actions">
+    Published in:  IEEE Transcations on Information theory <span><a href="2018-10 On the Nonexistence of Perfect Splitter Sets (IT).pdf" target="_blank">PDF</a></span>  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+   
+  </p>
+</article>
+
+
+
+
+
+
+
+<div class="items">      
+        <article class="item">   
+ Splitter Sets and k -Radius Sequences 
+    <span>
+      (with  
+	<a href="http://staff.ustc.edu.cn/~drzhangx/" target="_blank">Xiande Zhang</a>    
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+  <div class="item__primary-actions">
+    Published in:  IEEE Transcations on Information theory <span><a href="2017-12 Splitter Sets and k -Radius Sequences (IT).pdf" target="_blank">PDF</a></span>  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+   
+  </p>
+</article>
+
+
+
+
+
+
+
+
+
+<div class="items">      
+        <article class="item">   
+  Perfect and Quasi-Perfect Codes Under the lp Metric  
+    <span>
+      (with  					 
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+  <div class="item__primary-actions">
+    Published in:  IEEE Transcations on Information theory <span><a href="2017-07 Perfect and Quasi-Perfect Codes Under the lp Metric (IT).pdf" target="_blank">PDF</a></span>  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+   
+  </p>
+</article>
+
+
+
+
+
+
+
+
+
+<div class="items">      
+        <article class="item">   
+ Quantum Codes Derived From Certain Classes of Polynomials  
+    <span>
+      (with  					 
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+  <div class="item__primary-actions">
+    Published in:  IEEE Transcations on Information theory <span><a href="2016-11 Quantum Codes Derived From Certain Classes of Polynomials (IT).pdf" target="_blank">PDF</a></span>  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+   
+  </p>
+</article>
+
+
+
+
+
+<div class="items">      
+        <article class="item">   
+New Results on Codes Correcting Single Error of Limited Magnitude for Flash Memory  
+    <span>
+      (with  					 
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+  <div class="item__primary-actions">
+    Published in:  IEEE Transcations on Information theory <span><a href="2016-08 New Results on Codes Correcting Single Error of Limited Magnitude for Flash Memory (IT).pdf" target="_blank">PDF</a></span>  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+   
+  </p>
+</article>
+
+
+
+
+<div class="items">      
+        <article class="item">   
+Some New Classes of Quantum MDS Codes From Constacyclic Codes  
+    <span>
+      (with  					 
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+  <div class="item__primary-actions">
+    Published in:  IEEE Transcations on Information theory <span><a href="2015-09 Some New Classes of Quantum MDS Codes From Constacyclic Codes (IT).pdf" target="_blank">PDF</a></span>  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+   
+  </p>
+</article>
+
+
+
+<div class="items">      
+        <article class="item">   
  Fourth Power Residue Double Circulant Self-Dual Codes 
     <span>
       (with  					 
@@ -59,11 +246,11 @@
 
  <div class="items">      
         <article class="item">   
-  some new results on the cross correlation of m sequences
+  Some new results on the cross correlation of m sequences
     <span>
       (with  
         <a href="https://www.researchgate.net/profile/Shuxing_Li4" target=_blank">Shuxing Li</a>,
-	 <a href="https://person.zju.edu.cn/tfeng" target=_blank">Tao Feng</a> and					 
+	<a href="https://person.zju.edu.cn/tfeng" target=_blank">Tao Feng</a>,					 
         <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
     </span>
   <p>
