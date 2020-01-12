@@ -22,7 +22,7 @@
 	
 <h3>个人简历</h3>
     <p>
-    广州大学, 2016年7月至今 <br>
+    广州大学, 2017年7月至今 <br>
 	    副教授
     </p>
 	 <p>
@@ -62,7 +62,7 @@
     <span>
       (with  
 	    Zuo ye,
-	    <a href="http://staff.ustc.edu.cn/~drzhangx/" target="_blank">Xiande Zhang</a>
+	    <a href="http://staff.ustc.edu.cn/~drzhangx/" target="_blank">Xiande Zhang</a>,
         <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
     </span>
   <p>
