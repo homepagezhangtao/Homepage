@@ -289,10 +289,10 @@
 
 <h3>Talks</h3>
 <h4>Lattice tiling by two different shapes.</h4>
- <p>The Sixth International Symposium on Coding Theory, Cryptography and Combinatorics, Hubei, May, 2019. (Plenary talk)</p>
+ <p>The Sixth International Symposium on Coding Theory, Cryptography and Combinatorics, Hubei, May, 2019. (<h4>Plenary talk</h4>)</p>
  
  <h4>On the nonexistence of linear perfect Lee code</h4>
- <p>The fifth Sino-Korea International Conference on Coding theory and Its related Topics, Shanghai, July, 2018. (Invited talk) </p>
+ <p>The fifth Sino-Korea International Conference on Coding theory and Its related Topics, Shanghai, July, 2018. (<h4>Invited talk</h4>) </p>
  
  
 <h3>Contact Information</h3>
