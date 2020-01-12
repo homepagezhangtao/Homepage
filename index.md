@@ -14,18 +14,18 @@
      School of Mathematics and Information Science <br>
      Guangzhou University
     </p>
-   <h3> Research Interests</h3>
+   <h2> Research Interests</h2>
     <p>
      <h4> Extremal graph theory, discrete geometry, coding theory and design</h4><br>
       A member of <a href="http://staff.ustc.edu.cn/~drzhangx/group-chn/default.html" target="_blank">Combinatorics and Information Theory</a>
     </p>
 	
-<h3>Professional Experiences</h3>
+<h2>Professional Experiences</h2>
     <p>
     Guangzhou University, 2017.7-present <br>
 	    Associate Professor
     </p>
-    <h3>Education</h3>
+    <h2>Education</h2>
 	 <p>
     Zhejiang University， 2012.9-2017.6 <br>
 	   Ph.D. in Mathematics (Advisor: <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Prof. Gennian Ge</a>)
@@ -36,7 +36,7 @@
     </p>
     
     
-   <h3>Honours and Awards</h3>
+   <h2>Honours and Awards</h2>
     <p>
    <h4>2019 The Honorable Mention of Doctor thesis for New World Mathematics Awards</h4>
     </p>
@@ -54,7 +54,7 @@
     </p>
     
 	
-<h3>Publications</h3>
+<h2>Publications</h2>
 
 
 <div class="items">      
@@ -287,7 +287,7 @@
 
 
 
-<h3>Talks</h3>
+<h2>Talks</h2>
 <h4>Lattice tiling by two different shapes.</h4>
  <p>The Sixth International Symposium on Coding Theory, Cryptography and Combinatorics, Hubei, May, 2019. <h4>(Plenary talk)</h4></p>
  
@@ -295,7 +295,7 @@
  <p>The fifth Sino-Korea International Conference on Coding theory and Its related Topics, Shanghai, July, 2018. <h4>(Invited talk)</h4> </p>
  
  
-<h3>Contact Information</h3>
+<h2>Contact Information</h2>
     <p>
       <strong>Email:</strong> zhant220@163.com<br>
       
